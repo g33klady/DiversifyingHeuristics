@@ -3,27 +3,30 @@
 ## Social Media Accounts to follow
 
 ### Testers
-Crysal Preston-Watson - accessibility testing awesomeness and a wonderful nerdy person https://twitter.com/ScopicEngineer
-Bruce Hughes - non-binary tester, incredible artist, and great human https://twitter.com/BruceOnlyBruce
-Ash Coleman - Head of D&I at Credit Karma, former tester and all around great person https://twitter.com/AshColeman30
+
+* Crysal Preston-Watson - accessibility testing awesomeness and a wonderful nerdy person https://twitter.com/ScopicEngineer
+* Bruce Hughes - non-binary tester, incredible artist, and great human https://twitter.com/BruceOnlyBruce
+* Ash Coleman - Head of D&I at Credit Karma, former tester and all around great person https://twitter.com/AshColeman30
 
 ### Non-Testers
-Imani Barbarin - disability and Black advocacy in general https://twitter.com/Imani_Barbarin
-Kim Crayton - anti-racism in tech https://twitter.com/KimCrayton1
-Bridget Lemus - deaf life experience https://www.tiktok.com/@deaffamilymatters
-TechOWL PA - assistive tech https://www.tiktok.com/@techowlpa
-Lucy Edwards - British blind woman's experience https://www.tiktok.com/@lucyedwards?lang=en
-World's Most Aggravating Edge Cases - just bad edge cases and sometimes fun https://twitter.com/badedgecases
+
+* Imani Barbarin - disability and Black advocacy in general https://twitter.com/Imani_Barbarin
+* Kim Crayton - anti-racism in tech https://twitter.com/KimCrayton1
+* Bridget Lemus - deaf life experience https://www.tiktok.com/@deaffamilymatters
+* TechOWL PA - assistive tech https://www.tiktok.com/@techowlpa
+* Lucy Edwards - British blind woman's experience https://www.tiktok.com/@lucyedwards?lang=en
+* World's Most Aggravating Edge Cases - just bad edge cases and sometimes fun https://twitter.com/badedgecases
 
 ## Other Links
-Combating Bias with Heuristics of Diversity - Ash Coleman https://www.ministryoftesting.com/dojo/lessons/combating-bias-with-heuristics-of-diversity-ash-coleman?s_id=12753091
-Implicit bias quizzes https://implicit.harvard.edu/implicit/takeatest.html
-Falsehoods Programmers Believe About Names https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/
-How to be an ally to non-binary folks in tech - Bruce Hughes https://undevelopedbruce.com/2020/07/06/non-binary-in-tech/
-White Supremacy in Data - Ayodele Odubela (https://www.youtube.com/watch?v=ZOk0kfmHVJg)
-How gender diverse is your twitter? https://www.proporti.onl/
-Diversify Your Twitter Feed https://www.socialmediatoday.com/news/how-to-diversify-your-twitter-feed-and-why-you-should/528438/
-Explore It by Elisabeth Hendrickson ("The Headline Game") https://pragprog.com/titles/ehxta/explore-it/
+
+* Combating Bias with Heuristics of Diversity - Ash Coleman https://www.ministryoftesting.com/dojo/lessons/combating-bias-with-heuristics-of-diversity-ash-coleman?s_id=12753091
+* Implicit bias quizzes https://implicit.harvard.edu/implicit/takeatest.html
+* Falsehoods Programmers Believe About Names https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/
+* How to be an ally to non-binary folks in tech - Bruce Hughes https://undevelopedbruce.com/2020/07/06/non-binary-in-tech/
+* White Supremacy in Data - Ayodele Odubela (https://www.youtube.com/watch?v=ZOk0kfmHVJg)
+* How gender diverse is your twitter? https://www.proporti.onl/
+* Diversify Your Twitter Feed https://www.socialmediatoday.com/news/how-to-diversify-your-twitter-feed-and-why-you-should/528438/
+* Explore It by Elisabeth Hendrickson ("The Headline Game") https://pragprog.com/titles/ehxta/explore-it/
 
 # Heuristics
 
