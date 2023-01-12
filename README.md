@@ -27,6 +27,7 @@
 * How gender diverse is your twitter? https://www.proporti.onl/
 * Diversify Your Twitter Feed https://www.socialmediatoday.com/news/how-to-diversify-your-twitter-feed-and-why-you-should/528438/
 * Explore It by Elisabeth Hendrickson ("The Headline Game") https://pragprog.com/titles/ehxta/explore-it/
+* Trans-Inclusive Design https://alistapart.com/article/trans-inclusive-design/
 
 # Heuristics Cheatsheet (also available at https://g33klady.com/diversifying-heuristics-cheatsheet/)
 
@@ -66,3 +67,4 @@
 * Not “Western”
 * Not heterosexual
 * Left-handed
+* "Too young" or "too old"
